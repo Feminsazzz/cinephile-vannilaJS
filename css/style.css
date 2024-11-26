@@ -337,10 +337,10 @@ section h2 {
 
 /* Alert */
 .alert {
-  background: red;
   padding: 10px 20px;
   margin-bottom: 20px;
   border-radius: 5px;
+  transition: all ease-in-out;
 }
 
 .alert-success {
